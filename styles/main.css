@@ -9,26 +9,27 @@ h2 {
     text-align: center;
 }
 
-input {
+ input {
     border: 1px solid #BFBFBF;
-    align-items: center;
+    display: inline-block;
 
-    width: 363px;
-    height: 59px;
-    left: 100px;
+    width: 15em;
+    height: .1em;
+
+    padding: 1em;
+    margin: 10%;
 }
 
 .message {
-    width: 759px;
-    height: 112px;
+    width: 30em;
+    height: 5em;
 }
 
 button {
     background-color: #233451;
     color: white;
-    align-items: center;
-
-    width: 167px;
-    height: 56px;
-    left: 396px;
+    
+    width: 10em;
+    height: 3em;
+    text-align: center;
 }
