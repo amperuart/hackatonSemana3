@@ -1,4 +1,4 @@
-h1 {
+h2 {
     color: #FF1B1B;
     font-size: 36px;
     font-weight: 700;
@@ -8,7 +8,6 @@ h1 {
 
 input {
     border: 1px solid #BFBFBF;
-    color: white;
     align-items: center;
 
     width: 363px;
