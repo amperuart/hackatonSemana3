@@ -8,4 +8,8 @@
     Gracias a los atributos, podemos agregar funcionalidad a las etiquetas de validación. Entre los beneficios encontramos los siguientes:
     - Obtener los datos correctos en el formato correcto. Nuestras aplicaciones no funcionarán correctamente si los datos de nuestros usuarios se almacenan en el formato incorrecto, son incorrectos o se omiten por completo.
     - Proteger los datos de nuestros usuarios. Obligar a nuestros usuarios a introducir contraseñas seguras facilita proteger la información de su cuenta.
+<<<<<<< HEAD
     - Protegernos a nosotros mismo. Hay muchas formas en que los usuarios maliciosos puedan usar mal los formularios desprotegidos y dañar la aplicación
+=======
+    - Protegernos a nosotros mismo. Hay muchas formas en que los usuarios maliciosos puedan usar mal los formularios desprotegidos y dañar la aplicación
+>>>>>>> feature-html
