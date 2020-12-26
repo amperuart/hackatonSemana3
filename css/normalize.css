@@ -1,0 +1,8 @@
+1. ¿Para qué sirve la validación de formularios?
+    Nos permite validar la información antes de que se envíe al servidor. También podremos definir patrones personalizados y manejar el color de los errores y validaciones.
+
+2. ¿Cuáles son los problemas al no validar un formulario?
+    El usuario podría colocar números en un input que no corresponde como sería el caso del nombre por ejemplo.
+
+3. ¿Cuáles son los beneficios?
+    Gracias a los atributos, podemos agregar funcionalidad a las etiquetas de validación.
